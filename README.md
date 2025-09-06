@@ -9,9 +9,3 @@ frontend is written in ReactJs it is component based javascript library
 </p>
 
 
-
-<h3>#Installations for backend:</h3>
-<li>First Install latest Python</li>
-<li>Execute `pip install -r requirements.txt`</li>
-
-
