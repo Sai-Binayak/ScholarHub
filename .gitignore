@@ -1,0 +1,27 @@
+# Python
+env/
+env*/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.sqlite3
+
+# Node
+frontend/node_modules/
+frontend/build/
+npm-debug.log*
+yarn-error.log
+package-lock.json
+
+# Environment files
+.env
+
+# Editor/OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
